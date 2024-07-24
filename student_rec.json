@@ -22,5 +22,29 @@
         "course_name": "Introduction to SQL",
         "credit_score": "0",
         "gpa": "0"
+    },
+    {
+        "name": "Drake",
+        "last_name": "Ovo",
+        "email": "drake@ovomail.com",
+        "course_name": "Ovo Introduction",
+        "credit_score": "100",
+        "gpa": "4"
+    },
+    {
+        "name": "Kendric",
+        "last_name": "Lamar",
+        "email": "kendric@likeus.com",
+        "course_name": "Not like Us Introduction",
+        "credit_score": "100",
+        "gpa": "4"
+    },
+    {
+        "name": "Luffy",
+        "last_name": "Moon",
+        "email": "luffy@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": "50",
+        "gpa": "2.1"
     }
 ]
