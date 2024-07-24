@@ -40,5 +40,75 @@
         "course_name": "Introduction to Python",
         "credit_score": 50.0,
         "gpa": 2.1
+    },
+    {
+        "name": "Wakhile Dlamini",
+        "email": "w.dlamini@alustudent.com",
+        "course_name": "Introduction to Python",
+        "credit_score": 90.0,
+        "gpa": 3.8
+    },
+    {
+        "name": "Lilia Bryton",
+        "email": "lilia@gmail.com",
+        "course_name": "Java Script",
+        "credit_score": 75.0,
+        "gpa": 3.2
+    },
+    {
+        "name": "Thuli Khumalo",
+        "email": "thuli@gmail.com",
+        "course_name": "Introduction to SQL",
+        "credit_score": 0.0,
+        "gpa": 0.0
+    },
+    {
+        "name": "Drake Ovo",
+        "email": "drake@ovomail.com",
+        "course_name": "Ovo Introduction",
+        "credit_score": 100.0,
+        "gpa": 4.0
+    },
+    {
+        "name": "Kendric Lamar",
+        "email": "kendric@likeus.com",
+        "course_name": "Not like Us Introduction",
+        "credit_score": 100.0,
+        "gpa": 4.0
+    },
+    {
+        "name": "Luffy Moon",
+        "email": "luffy@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": 50.0,
+        "gpa": 2.1
+    },
+    {
+        "name": "Kate Co;e",
+        "email": "kate@yahoo.com",
+        "course_name": "Introduction to SQl",
+        "credit_score": 70.0,
+        "gpa": 3.2
+    },
+    {
+        "name": "Luke James",
+        "email": "luke@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": 80.0,
+        "gpa": 3.3
+    },
+    {
+        "name": "Lucy Bale",
+        "email": "lucy@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": 0.0,
+        "gpa": 0.0
+    },
+    {
+        "name": "Sakhiwo Dlamini",
+        "email": "sakhi@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": 0.0,
+        "gpa": 0.0
     }
 ]

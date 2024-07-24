@@ -28,5 +28,14 @@
         "Course Name": "Introduction to Virtual Studio",
         "Trimester": "Jan 2025",
         "Credit Score": "100"
+    },
+    {
+        "name": "Introduction to SQl",
+        "credit_score": "70"
+    },
+    {
+        "Course Name": "Introduction to Python",
+        "Trimester": "April 2025",
+        "Credit Score": "100"
     }
 ]

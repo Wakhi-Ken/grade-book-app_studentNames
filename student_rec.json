@@ -46,5 +46,33 @@
         "course_name": "Introduction to Python",
         "credit_score": "50",
         "gpa": "2.1"
+    },
+    {
+        "name": "Kate",
+        "last_name": "Co;e",
+        "email": "kate@yahoo.com",
+        "course_name": "Introduction to SQl",
+        "credit_score": "70",
+        "gpa": "3.2"
+    },
+    {
+        "name": "Luke",
+        "last_name": "James",
+        "email": "luke@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": "80",
+        "gpa": "3.3"
+    },
+    {
+        "name": "Lucy",
+        "last_name": "Bale",
+        "email": "lucy@gmail.com",
+        "course_name": "Introduction to Python"
+    },
+    {
+        "name": "Sakhiwo",
+        "last_name": "Dlamini",
+        "email": "sakhi@gmail.com",
+        "course_name": "Introduction to Python"
     }
 ]

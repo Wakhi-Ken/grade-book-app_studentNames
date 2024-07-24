@@ -45,10 +45,10 @@ def creating_student_rec():
     course_data = load_course_data()
 
     # Check if the course already exists in course.json
-    existing_course = next((course for course in course_data if course['name'] == Course_name), None)
+    existing_course = next((course for course in course_data if course['Course Name'] == Course_name), None)
     if existing_course:
         # If the course exists, use the existing credit score
-        Credit_score = existing_course['credit_score']
+        Credit_score = existing_course['Credit Score']
     else:
         # If the course doesn't exist, add it to course.json
         new_course = {
