@@ -21,5 +21,44 @@
         "course_name": "Introduction to Python",
         "credit_score": "80",
         "gpa": "3.2"
+    },
+    {
+        "name": "Goodness",
+        "last_name": "Magagula",
+        "email": "good@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": "70",
+        "gpa": "3.1"
+    },
+    {
+        "name": "Silindie",
+        "last_name": "Bhembe",
+        "email": "sili@gmail.com",
+        "course_name": "Introduction To Style",
+        "credit_score": "80",
+        "gpa": "3.8"
+    },
+    {
+        "name": "Hlelo",
+        "last_name": "Mavuso",
+        "email": "hlelo@gmail.com",
+        "course_name": "Introduction of Python",
+        "credit_score": "0"
+    },
+    {
+        "name": "Blessing",
+        "last_name": "Light",
+        "email": "bless@gmail.com",
+        "course_name": "Introduction to Linux",
+        "credit_score": "0",
+        "gpa": "0"
+    },
+    {
+        "name": "Drake",
+        "last_name": "Turnna",
+        "email": "drake@gmail.com",
+        "course_name": "Introduction to SQl",
+        "credit_score": "0",
+        "gpa": "0"
     }
 ]

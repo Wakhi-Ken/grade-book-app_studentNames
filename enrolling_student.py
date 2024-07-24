@@ -22,13 +22,13 @@ def save_student(student_data):
         json.dump(student_data, file, indent=4)
 
 def enrolling_student():
-    print("Please enter new student information:")
+    print("Please enter student information:")
     name = input("Name: ")
     last_name = input("Last Name: ")
     email = input("Email: ")
     Course_name = input("Course Name: ")
-    Credit_score = input("Credit Score: ")
-    Gpa  = input("Gpa: ")
+    Credit_score = input("Credit Score Number: ")
+    Gpa  = input("Gpa Number: ")
 
 
     new_student = Student(name, last_name, email, Course_name, Credit_score, Gpa)
@@ -42,7 +42,6 @@ def enrolling_student():
 
     existing_data = load_existing_data()
 
-    print(f"Existing data: {existing_data}")
 
     existing_data.append({
         "name": new_student.name,
@@ -50,9 +49,9 @@ def enrolling_student():
         "email": new_student.email,
         "course_name": new_student.course_name,
         "credit_score": new_student.credit_score,
-
+        "gpa": new_student.gpa
     })
 
     save_student(existing_data)
 
-    print("New student enrolled saved")
+    print("Student information saved")

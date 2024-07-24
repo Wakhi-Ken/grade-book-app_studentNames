@@ -27,8 +27,8 @@ def creating_student_rec():
     last_name = input("Last Name: ")
     email = input("Email: ")
     Course_name = input("Course Name: ")
-    Credit_score = input("Credit Score: ")
-    Gpa  = input("Gpa: ")
+    Credit_score = input("Credit Score Number: ")
+    Gpa  = input("Gpa Number: ")
 
 
     new_student = Student(name, last_name, email, Course_name, Credit_score, Gpa)
@@ -38,11 +38,10 @@ def creating_student_rec():
     print("Email:", new_student.email)
     print("Course Name:", new_student.course_name)
     print("Credit Score:", new_student.credit_score)
-    print("GPA:", new_student.gpa)
+    print("GPA :", new_student.gpa)
 
     existing_data = load_existing_data()
 
-    print(f"Existing data: {existing_data}")
 
     existing_data.append({
         "name": new_student.name,

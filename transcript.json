@@ -124,5 +124,159 @@
         "course_name": "Introduction To Python",
         "credit_score": 0.0,
         "gpa": 0.0
+    },
+    {
+        "name": "Wakhile Dlamini",
+        "email": "w.dlamini@alustudent.com",
+        "course_name": "Introduction to Java",
+        "credit_score": 90.0,
+        "gpa": 3.8
+    },
+    {
+        "name": "Luke Don",
+        "email": "luke@gmail.com",
+        "course_name": "Introduction To Python",
+        "credit_score": 0.0,
+        "gpa": 0.0
+    },
+    {
+        "name": "Kate Dlamini",
+        "email": "kate@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": 80.0,
+        "gpa": 3.2
+    },
+    {
+        "name": "Goodness Magagula",
+        "email": "good@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": 70.0,
+        "gpa": 3.1
+    },
+    {
+        "name": "Silindie Bhembe",
+        "email": "sili@gmail.com",
+        "course_name": "Introduction To Style",
+        "credit_score": 80.0,
+        "gpa": 3.8
+    },
+    {
+        "name": "Hlelo Mavuso",
+        "email": "hlelo@gmail.com",
+        "course_name": "Introduction of Python",
+        "credit_score": 0.0,
+        "gpa": 0.0
+    },
+    {
+        "name": "Blessing Light",
+        "email": "bless@gmail.com",
+        "course_name": "Introduction to Linux",
+        "credit_score": 0.0,
+        "gpa": 0.0
+    },
+    {
+        "name": "Wakhile Dlamini",
+        "email": "w.dlamini@alustudent.com",
+        "course_name": "Introduction to Java",
+        "credit_score": 90.0,
+        "gpa": 3.8
+    },
+    {
+        "name": "Luke Don",
+        "email": "luke@gmail.com",
+        "course_name": "Introduction To Python",
+        "credit_score": 0.0,
+        "gpa": 0.0
+    },
+    {
+        "name": "Kate Dlamini",
+        "email": "kate@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": 80.0,
+        "gpa": 3.2
+    },
+    {
+        "name": "Goodness Magagula",
+        "email": "good@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": 70.0,
+        "gpa": 3.1
+    },
+    {
+        "name": "Silindie Bhembe",
+        "email": "sili@gmail.com",
+        "course_name": "Introduction To Style",
+        "credit_score": 80.0,
+        "gpa": 3.8
+    },
+    {
+        "name": "Hlelo Mavuso",
+        "email": "hlelo@gmail.com",
+        "course_name": "Introduction of Python",
+        "credit_score": 0.0,
+        "gpa": 0.0
+    },
+    {
+        "name": "Blessing Light",
+        "email": "bless@gmail.com",
+        "course_name": "Introduction to Linux",
+        "credit_score": 0.0,
+        "gpa": 0.0
+    },
+    {
+        "name": "Wakhile Dlamini",
+        "email": "w.dlamini@alustudent.com",
+        "course_name": "Introduction to Java",
+        "credit_score": 90.0,
+        "gpa": 3.8
+    },
+    {
+        "name": "Luke Don",
+        "email": "luke@gmail.com",
+        "course_name": "Introduction To Python",
+        "credit_score": 0.0,
+        "gpa": 0.0
+    },
+    {
+        "name": "Kate Dlamini",
+        "email": "kate@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": 80.0,
+        "gpa": 3.2
+    },
+    {
+        "name": "Goodness Magagula",
+        "email": "good@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": 70.0,
+        "gpa": 3.1
+    },
+    {
+        "name": "Silindie Bhembe",
+        "email": "sili@gmail.com",
+        "course_name": "Introduction To Style",
+        "credit_score": 80.0,
+        "gpa": 3.8
+    },
+    {
+        "name": "Hlelo Mavuso",
+        "email": "hlelo@gmail.com",
+        "course_name": "Introduction of Python",
+        "credit_score": 0.0,
+        "gpa": 0.0
+    },
+    {
+        "name": "Blessing Light",
+        "email": "bless@gmail.com",
+        "course_name": "Introduction to Linux",
+        "credit_score": 0.0,
+        "gpa": 0.0
+    },
+    {
+        "name": "Drake Turnna",
+        "email": "drake@gmail.com",
+        "course_name": "Introduction to SQl",
+        "credit_score": 0.0,
+        "gpa": 0.0
     }
 ]

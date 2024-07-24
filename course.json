@@ -18,5 +18,10 @@
         "Course Name": "Introduction to Java",
         "Trimester": "Jan 2025",
         "Credit Score": "100"
+    },
+    {
+        "Course Name": "Introduction to Krita",
+        "Trimester": "November 2024",
+        "Credit Score": "100"
     }
 ]
