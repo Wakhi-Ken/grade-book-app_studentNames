@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Wakhile",
+        "last_name": "Dlamini",
+        "email": "w.dlamini@alustudent.com"
+    },
+    {
+        "name": "Lilly",
+        "last_name": "Smith",
+        "email": "lilly@gmail.com"
+    },
+    {
+        "name": "Wakhile",
+        "last_name": "Dlamini",
+        "email": "w.dlamini@alustudent.com",
+        "course_name": "Introduction to Python",
+        "credit_score": "70",
+        "gpa": "3.5"
+    },
+    {
+        "name": "Wakhile",
+        "last_name": "Dlamini",
+        "email": "w.dlamini@alustudent.com",
+        "Course_name": "Introduction to Python",
+        "Credit_score": "70",
+        "Gpa": "3.8"
+    },
+    {
+        "name": "Wakhile",
+        "last_name": "Dlamini",
+        "email": "w.dlamini@alustudent.com",
+        "Course_name": "Introduction to Python",
+        "Credit_score": "70",
+        "Gpa": "3.5"
+    },
+    {
+        "name": "Wakhile",
+        "last_name": "Dlamini",
+        "email": ""
+    }
+]
