@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Wakhile",
+        "last_name": "Dlamini",
+        "email": "w.dlamini@alustudent.com",
+        "course_name": "Introduction to Python",
+        "credit_score": "90",
+        "gpa": "3.8"
+    },
+    {
+        "name": "Lilia",
+        "last_name": "Bryton",
+        "email": "lilia@gmail.com",
+        "course_name": "Java Script",
+        "credit_score": "75",
+        "gpa": "3.2"
+    }
+]
