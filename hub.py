@@ -2,7 +2,7 @@ import sys
 from creating_student_rec import creating_student_rec
 from course_records import creating_course
 from enrolling_student import enrolling_student
-# from calculate_ranking import calculate_ranking
+from calculate_ranking import calculate_ranking
 from search_by_grade import search_by_grade
 # from generate_transcript import generate_transcript
 # from exiting import exiting
