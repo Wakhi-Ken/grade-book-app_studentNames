@@ -60,5 +60,21 @@
         "course_name": "Introduction to SQl",
         "credit_score": "0",
         "gpa": "0"
+    },
+    {
+        "name": "Nick",
+        "last_name": "Rous",
+        "email": "nick@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": "0",
+        "gpa": "0"
+    },
+    {
+        "name": "Tyson",
+        "last_name": "Furry",
+        "email": "tyrson@gmail.com",
+        "course_name": "Introduction to SQL",
+        "credit_score": "80",
+        "gpa": "3.5"
     }
 ]

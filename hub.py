@@ -6,8 +6,6 @@ from calculate_ranking import calculate_ranking
 from search_by_grade import search_by_grade
 from generate_transcript import generate_transcript
 
-
-
 def main():
     while True:
         print("\nWelcome to the Grade Book Application")
@@ -38,8 +36,7 @@ def main():
             print("Exiting program.")
             break
         else:
-            print("Invalid choice. Please try again.")
-
+            print("Invalid choice. Please enter another choice from 1 - 7.")
 
 if __name__ == "__main__":
     main()

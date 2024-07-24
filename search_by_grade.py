@@ -42,4 +42,4 @@ def search_by_grade():
     search_by_grades(min_gpa, max_gpa, file_path)
 
 if __name__ == "__main__":
-    main()
+    search_by_grade()

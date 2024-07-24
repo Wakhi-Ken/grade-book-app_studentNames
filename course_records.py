@@ -12,7 +12,6 @@ def course_records():
         with open('course.json', 'r') as file:
             return json.load(file)
     else:
-        
         default_courses = [
             {
                 "Course Name": "Introduction to Linux",
@@ -39,8 +38,17 @@ def save_course(course_data):
 def creating_course():
     print("Please enter course information:")
     course_name = input("Course Name: ")
+    if not course_name.strip():
+        print("Error: Course Name is required.")
+        return
     trimester = input("Trimester in Month Year format: ")
+    if not trimester.strip():
+        print("Error: Trimester is required.")
+        return
     credit_score = input("Credit Score: ")
+    if not credit_score.strip():
+        print("Error: Credit Score is required.")
+        return
 
     new_course = Course(course_name, trimester, credit_score)
 
@@ -50,7 +58,6 @@ def creating_course():
     print("Credit Score:", new_course.credit_score)
 
     existing_data = course_records()
-
     existing_data.append({
         "Course Name": new_course.course_name,
         "Trimester": new_course.trimester,

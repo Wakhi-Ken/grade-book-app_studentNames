@@ -24,14 +24,31 @@ def save_student(student_data):
 def enrolling_student():
     print("Please enter student information:")
     name = input("Name: ")
+    if not name.strip():
+        print("Error: Name is required.")
+        return
     last_name = input("Last Name: ")
+    if not last_name.strip():
+        print("Error: Last Name is required.")
+        return
     email = input("Email: ")
-    Course_name = input("Course Name: ")
-    Credit_score = input("Credit Score Number: ")
-    Gpa  = input("Gpa Number: ")
+    if not email.strip():
+        print("Error: Email is required.")
+        return
+    course_name = input("Course Name: ")
+    if not course_name.strip():
+        print("Error: Course Name is required.")
+        return
+    credit_score = input("Credit Score Number: ")
+    if not credit_score.strip():
+        print("Error: Credit Score is required.")
+        return
+    gpa = input("GPA Number: ")
+    if not gpa.strip():
+        print("Error: GPA is required.")
+        return
 
-
-    new_student = Student(name, last_name, email, Course_name, Credit_score, Gpa)
+    new_student = Student(name, last_name, email, course_name, credit_score, gpa)
 
     print("\nNew student added successfully:")
     print("Name:", new_student.name, new_student.last_name)
@@ -41,8 +58,6 @@ def enrolling_student():
     print("GPA:", new_student.gpa)
 
     existing_data = load_existing_data()
-
-
     existing_data.append({
         "name": new_student.name,
         "last_name": new_student.last_name,
