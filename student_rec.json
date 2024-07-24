@@ -20,7 +20,7 @@
         "last_name": "Khumalo",
         "email": "thuli@gmail.com",
         "course_name": "Introduction to SQL",
-        "credit_score": "",
-        "gpa": ""
+        "credit_score": "0",
+        "gpa": "0"
     }
 ]
