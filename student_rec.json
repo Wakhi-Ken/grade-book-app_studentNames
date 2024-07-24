@@ -13,5 +13,13 @@
         "email": "luke@gmail.com",
         "course_name": "Introduction To Python",
         "credit_score": "0"
+    },
+    {
+        "name": "Kate",
+        "last_name": "Dlamini",
+        "email": "kate@gmail.com",
+        "course_name": "Introduction to Python",
+        "credit_score": "80",
+        "gpa": "3.2"
     }
 ]

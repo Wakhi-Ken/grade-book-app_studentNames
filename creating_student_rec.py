@@ -17,20 +17,9 @@ def load_existing_data():
     else:
         return []
 
-def load_course_data():
-    if os.path.exists('./course.json') and os.path.getsize('./course.json') > 0:
-        with open('./course.json', 'r') as file:
-            return json.load(file)
-    else:
-        return []
-
 def save_student(student_data):
     with open('./student_rec.json', 'w') as file:
         json.dump(student_data, file, indent=4)
-
-def save_course(course_data):
-    with open('./course.json', 'w') as file:
-        json.dump(course_data, file, indent=4)
 
 def creating_student_rec():
     print("Please enter student information:")
@@ -41,22 +30,6 @@ def creating_student_rec():
     Credit_score = input("Credit Score: ")
     Gpa  = input("Gpa: ")
 
-    # Load course data from course.json
-    course_data = load_course_data()
-
-    # Check if the course already exists in course.json
-    existing_course = next((course for course in course_data if course['Course Name'] == Course_name), None)
-    if existing_course:
-        # If the course exists, use the existing credit score
-        Credit_score = existing_course['Credit Score']
-    else:
-        # If the course doesn't exist, add it to course.json
-        new_course = {
-            "name": Course_name,
-            "credit_score": Credit_score
-        }
-        course_data.append(new_course)
-        save_course(course_data)
 
     new_student = Student(name, last_name, email, Course_name, Credit_score, Gpa)
 

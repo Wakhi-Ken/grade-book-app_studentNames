@@ -1,11 +1,22 @@
 [
     {
-        "name": "Introduction to Java",
-        "credit_score": "90"
+        "Course Name": "Introduction to Linux",
+        "Trimester": "January 2023",
+        "Credit Score": "100"
     },
     {
-        "Course Name": "Introduction to Blender",
-        "Trimester": "January 2025",
+        "Course Name": "Introduction to Python",
+        "Trimester": "February 2023",
+        "Credit Score": "100"
+    },
+    {
+        "Course Name": "Introduction to SQL",
+        "Trimester": "March 2023",
+        "Credit Score": "100"
+    },
+    {
+        "Course Name": "Introduction to Java",
+        "Trimester": "Jan 2025",
         "Credit Score": "100"
     }
 ]
