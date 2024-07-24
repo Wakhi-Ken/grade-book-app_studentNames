@@ -14,5 +14,13 @@
         "course_name": "Java Script",
         "credit_score": "75",
         "gpa": "3.2"
+    },
+    {
+        "name": "Thuli",
+        "last_name": "Khumalo",
+        "email": "thuli@gmail.com",
+        "course_name": "Introduction to SQL",
+        "credit_score": "",
+        "gpa": ""
     }
 ]
