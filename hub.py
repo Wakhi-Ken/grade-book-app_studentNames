@@ -8,12 +8,6 @@ from generate_transcript import generate_transcript
 
 
 
-def exit_app():
-    print("Thanks for using the Grade Book Application")
-    print("Goodbye!")
-    sys.exit()
-
-
 def main():
     while True:
         print("\nWelcome to the Grade Book Application")
