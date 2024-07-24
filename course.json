@@ -1,41 +1,11 @@
 [
     {
-        "Course Name": "Introduction to Linux",
-        "Trimester": "January 2023",
-        "Credit Score": "3"
+        "name": "Introduction to Java",
+        "credit_score": "90"
     },
     {
-        "Course Name": "Introduction to Python",
-        "Trimester": "February 2023",
-        "Credit Score": "4"
-    },
-    {
-        "Course Name": "Introduction to SQL",
-        "Trimester": "March 2023",
-        "Credit Score": "3"
-    },
-    {
-        "Course Name": "Business Information",
-        "Trimester": "November 2024",
-        "Credit Score": "100"
-    },
-    {
-        "Course Name": "GitHub",
-        "Trimester": "September 2025",
-        "Credit Score": "100"
-    },
-    {
-        "Course Name": "Introduction to Virtual Studio",
-        "Trimester": "Jan 2025",
-        "Credit Score": "100"
-    },
-    {
-        "name": "Introduction to SQl",
-        "credit_score": "70"
-    },
-    {
-        "Course Name": "Introduction to Python",
-        "Trimester": "April 2025",
+        "Course Name": "Introduction to Blender",
+        "Trimester": "January 2025",
         "Credit Score": "100"
     }
 ]

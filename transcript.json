@@ -110,5 +110,19 @@
         "course_name": "Introduction to Python",
         "credit_score": 0.0,
         "gpa": 0.0
+    },
+    {
+        "name": "Wakhile Dlamini",
+        "email": "w.dlamini@alustudent.com",
+        "course_name": "Introduction to Java",
+        "credit_score": 90.0,
+        "gpa": 3.8
+    },
+    {
+        "name": "Luke Don",
+        "email": "luke@gmail.com",
+        "course_name": "Introduction To Python",
+        "credit_score": 0.0,
+        "gpa": 0.0
     }
 ]

@@ -3,76 +3,15 @@
         "name": "Wakhile",
         "last_name": "Dlamini",
         "email": "w.dlamini@alustudent.com",
-        "course_name": "Introduction to Python",
+        "course_name": "Introduction to Java",
         "credit_score": "90",
         "gpa": "3.8"
     },
     {
-        "name": "Lilia",
-        "last_name": "Bryton",
-        "email": "lilia@gmail.com",
-        "course_name": "Java Script",
-        "credit_score": "75",
-        "gpa": "3.2"
-    },
-    {
-        "name": "Thuli",
-        "last_name": "Khumalo",
-        "email": "thuli@gmail.com",
-        "course_name": "Introduction to SQL",
-        "credit_score": "0",
-        "gpa": "0"
-    },
-    {
-        "name": "Drake",
-        "last_name": "Ovo",
-        "email": "drake@ovomail.com",
-        "course_name": "Ovo Introduction",
-        "credit_score": "100",
-        "gpa": "4"
-    },
-    {
-        "name": "Kendric",
-        "last_name": "Lamar",
-        "email": "kendric@likeus.com",
-        "course_name": "Not like Us Introduction",
-        "credit_score": "100",
-        "gpa": "4"
-    },
-    {
-        "name": "Luffy",
-        "last_name": "Moon",
-        "email": "luffy@gmail.com",
-        "course_name": "Introduction to Python",
-        "credit_score": "50",
-        "gpa": "2.1"
-    },
-    {
-        "name": "Kate",
-        "last_name": "Co;e",
-        "email": "kate@yahoo.com",
-        "course_name": "Introduction to SQl",
-        "credit_score": "70",
-        "gpa": "3.2"
-    },
-    {
         "name": "Luke",
-        "last_name": "James",
+        "last_name": "Don",
         "email": "luke@gmail.com",
-        "course_name": "Introduction to Python",
-        "credit_score": "80",
-        "gpa": "3.3"
-    },
-    {
-        "name": "Lucy",
-        "last_name": "Bale",
-        "email": "lucy@gmail.com",
-        "course_name": "Introduction to Python"
-    },
-    {
-        "name": "Sakhiwo",
-        "last_name": "Dlamini",
-        "email": "sakhi@gmail.com",
-        "course_name": "Introduction to Python"
+        "course_name": "Introduction To Python",
+        "credit_score": "0"
     }
 ]
