@@ -20,7 +20,7 @@ def calculate_gpa(credit_score):
     gpa = total_score / total_credits
     return round(gpa, 2)
 
-def generate_transcript(student_data):
+def generate_transcripts(student_data):
     if not student_data:
         print("No student records found.")
         return
@@ -41,12 +41,12 @@ def generate_transcript(student_data):
         print(transcript)
         print()
 
-def main():
+def generate_transcript():
     file_path = './student_rec.json'
     student_data = load_student_data(file_path)
 
     if student_data:
-        generate_transcript(student_data)
+        generate_transcripts(student_data)
 
 if __name__ == "__main__":
-    main()
+    generate_transcript()
